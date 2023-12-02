@@ -1,2 +1,1 @@
-# react-native-boilerplate
-a react native boilerplate
+A react native boilerplate

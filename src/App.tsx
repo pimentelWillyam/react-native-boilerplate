@@ -1,9 +1,10 @@
 import * as React from 'react'
-import {NavigationContainer} from '@react-navigation/native'
+import { Routes } from './Routes'
 
 const App = () => {
   return (
+      <Routes />
   )
 }
 
-export default App;
+export default App
